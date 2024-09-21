@@ -1,5 +1,3 @@
-# tic-tac-toe-game
-
 # Tic Tac Toe Game
 
 A simple Tic Tac Toe game implemented in HTML, CSS, and JavaScript.
@@ -19,6 +17,9 @@ A simple Tic Tac Toe game implemented in HTML, CSS, and JavaScript.
 1. Open `index.html` in your web browser.
 2. Players take turns clicking on the boxes to place their markers (X or O).
 3. The game checks for a winner or a draw after each turn.
+
+## Screenshot
+![Tic Tac Toe Game Screenshot](images/screenshot.png)
 
 ## Installation
 1. Clone this repository:
