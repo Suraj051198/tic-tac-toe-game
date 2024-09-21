@@ -19,7 +19,7 @@ A simple Tic Tac Toe game implemented in HTML, CSS, and JavaScript.
 3. The game checks for a winner or a draw after each turn.
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/0251be67-60ab-4bfa-b062-3538cb366f25)
+![image](https://github.com/user-attachments/assets/804a79dc-6938-48ae-a33f-dab163380856)
 
 ## win
 ![image](https://github.com/user-attachments/assets/7790481e-b373-4976-b0c9-fc09e948664a)
