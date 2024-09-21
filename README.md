@@ -19,7 +19,14 @@ A simple Tic Tac Toe game implemented in HTML, CSS, and JavaScript.
 3. The game checks for a winner or a draw after each turn.
 
 ## Screenshot
-![Tic Tac Toe Game Screenshot](images/screenshot.png)
+![image](https://github.com/user-attachments/assets/0251be67-60ab-4bfa-b062-3538cb366f25)
+
+## win
+![image](https://github.com/user-attachments/assets/7790481e-b373-4976-b0c9-fc09e948664a)
+
+## Game was a Draw.
+![image](https://github.com/user-attachments/assets/606cb212-3992-4fb2-b38b-d329b538ba5f)
+
 
 ## Installation
 1. Clone this repository:
